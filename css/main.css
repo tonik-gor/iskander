@@ -1,0 +1,1077 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Scada', sans-serif;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin-top: 13px;
+}
+
+a {
+    font-size: 18px;
+    color: white;
+    list-style: none; 
+    text-decoration: none;
+    padding: 28px;
+ }
+
+.container {
+	height: 80px;
+
+}
+
+.logo {
+	margin-left:326px;
+	width: 250px;
+	height: 37px;
+	display: inline-block;
+	margin-top: 16px;
+	float: left;
+}
+
+.nomer {
+	display: inline-block;
+    margin-left: 328px;
+    position: relative;
+    font-weight: bold;
+    top: 12px;
+    font-size: 25px;
+    height: 50px;
+    float: left;
+}
+
+.button {
+	display: inline-block;
+	background-color: #c31e2f;
+	color: #fff;
+	text-transform: uppercase;
+	height: 40px;
+	width: 210px;
+	border-radius: 8px;
+	font-size: 13px;
+	margin-top: 7px;
+	margin-right: -245px;
+}
+
+.zakaz {
+	position: relative;
+	top: 16px;
+	left: 50px;
+	width: 250px;
+}
+
+.menu {
+	background-color: #000;
+	height: 50px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.menu-item {
+	margin-left: 64px;
+}
+
+.section {
+	background: url(../img/hall.png) no-repeat;
+    height: 800px;
+    clip-path: polygon(0 0 , 100% 0, 100% 85%, 0 100%);
+
+}
+
+.section .text {
+	display: inline;
+	font-size: 45px;
+	text-align: center;
+	
+}
+
+.box_paragraf {
+	font-size: 45px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.box_black {
+ 	background: url(../img/tin_png.png) no-repeat;
+ 	height: 100%;
+ 	width: 265px;
+ 	position: relative;
+ 	top: 135px;
+ 	left: 559px;
+ 	z-index: 1;
+ 	
+}
+
+.text__black {
+	display: block;
+  	color: #fffefe;
+  	font-size: 23px;
+  	text-align: right;
+  	position: relative;
+  	top: 55px;
+  	right: 24px;
+  	line-height: 1.3em;
+}
+
+.box_red {
+	background: url(../img/red_tin.png) no-repeat;
+	width: 410px;
+	height: 100%;
+	position: relative;
+	bottom: 790px;
+	left: 800px;
+}
+
+.form_order_red {
+	position: relative;
+	top: 69px;
+}
+
+.form_red_text {
+
+}
+
+.form_order_p {
+	font-size: 45px;
+	color: #fff;
+	font-weight: bold;
+	width: 410px;
+	height: 50px;
+	text-align: center;
+}
+
+.form_red_text {
+	font-size: 30px;
+	color: #fff;
+	font-weight: bold;
+	width: 410px;
+	height: 100px;
+	text-align: center;	
+}
+
+.form_order_text {
+ 	margin: 10px 20px 10px 28px;
+    width: 80%;
+    display: block;
+    font-size: 14px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #868686;
+    clear: both;
+    text-align: left;
+}
+
+.form_order_button {
+	width: 275px;
+	padding: 10px;
+	margin: 25px 10px 20px 67px;
+	border-radius: 5px;
+	background-color: #868686;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	border: none;
+	clear: both;
+	font-weight: normal;
+}
+
+.product {
+	height: 400px;
+
+}
+
+.product-text {
+	font-size: 45px;
+	color: #000;
+	width: 100%;
+	text-align: center;
+	margin-top: 60px;
+}
+
+.product_p {
+   margin-left: 265px;
+}
+
+.list_item {
+    font-size: 25px;
+    color: #000000;
+    text-align: center;
+
+}
+
+.images {
+ 	display: block;
+ 	width: 230px;
+ 	height: 150px;
+ 	padding: 17px;
+}
+
+.zakaz_item {
+	background: url(../img/silver_tin.png) no-repeat;
+	width: 100%;
+	height: 846px;
+}
+
+.images_img {
+
+}
+
+.zakaz__item p {
+	font-size: 45px;
+	margin-left: 510px;
+	padding-top: 145px;
+	
+}
+
+.zakaz__i__tem {
+	margin-left: 380px;
+	margin-top: 50px;
+}
+
+.zakaz__item {
+	position: relative;
+	margin-left: 1px;
+ }
+
+.zakaz__it_em {
+	position: relative;
+	margin-left: 400px;
+	margin-bottom: -146px;
+}
+
+.zakaz__ite_m {
+	position: relative;
+    margin-bottom: -146px;
+    margin-left: -605px
+}
+
+.garant {
+	position: relative;
+    margin-bottom: -270px;
+    margin-left: -111px;
+}
+
+.car {
+	position: relative;
+    margin-bottom: -386px;
+    margin-left: -209px;
+    left: -400px;
+	
+}
+
+.zakaz__it_em {
+	position: relative;
+	margin-bottom: 1px;
+}
+
+.many {
+	position: relative;
+	margin-bottom: -146px;
+	margin-left: -107px;
+}
+
+.trikutnik {
+	position: relative;
+	margin-bottom: -270px;
+	margin-left: 400px;
+
+}
+
+.drill {
+	position: relative;
+	margin-bottom: -385px;
+}
+
+.img__bg {
+	background: url(../img/bg_section.png) no-repeat;
+	width: 100%;
+	height: 760px;
+	clip-path: polygon(0 0 , 100% 0, 100% 85%, 0 100%);
+
+}
+
+.img_text p {
+	margin-top: -585px;
+    margin-left: 520px;
+    font-size: 25px;
+    color: #fff;
+}
+
+.img__text p {
+	margin-left: 520px;
+}
+
+.img_text_two p {
+	margin-left: 520px;
+	margin-top: 70px;
+	font-size: 25px;
+	color: #fff;
+}
+
+.img_text__two p {
+	margin-left: 520px;
+}
+
+.img_text_three p {
+	margin-left: 520px;
+	font-size: 25px;
+	color: #fff;
+	margin-top: 1px;
+}
+
+.img_text__three p {
+	margin-left: 520px;
+}
+
+.img_text_four p {
+	margin-left: 520px;
+	font-size: 25px;
+	color: #fff;
+	margin-top: 45px;
+}
+
+.img_text__four p {
+	margin-left: 520px;
+}
+
+.img_text_cub p {
+	margin-left: 1020px;
+	margin-top: -437px;
+	font-size: 25px;
+	color: #fff;
+}
+
+.img_text__cub {
+	margin-left: 1020px;
+}
+
+.img_text_many p {
+	margin-left: 1020px;
+	margin-top: 40px;
+	font-size: 25px;
+	color: #fff;
+}
+
+.img_text__many p {
+	margin-left: 1020px;
+}
+
+.free p {
+	margin-left: 1020px;
+	margin-top: 3px;
+	font-size: 25px;
+	color: #fff;
+}
+
+.free_home p {
+	margin-left: 1020px;
+}
+
+.drill p {
+	margin-left: 1020px;
+	margin-top: 55px;
+	font-size: 25px;
+	color: #fff;
+}
+
+.drill_home p {
+	margin-left: 1020px;
+	margin-top: 385px;
+}
+
+/*.bg_section {
+	width: 100%;
+	height: 760px;
+}*/
+
+.design h1 {
+	margin-top: -610px;
+    margin-left: 670px;
+    font-size: 45px;
+}
+
+.design h2 {
+	margin-left: 365px;
+	font-size: 45px;	
+}
+
+.design p {
+	margin-left: -670px;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.design_p p {
+	margin-top: -63px;
+	font-size: 25px;
+	margin-left: 670px;
+}
+
+.design__p p {
+	margin-top: -60px;
+	font-size: 25px;
+	margin-left: 810px;
+	text-align: center;
+}
+
+.design_original p {
+	font-size: 25px;
+	margin-left: -700px;
+	margin-top: 65px;
+	text-align: center;
+}
+
+.design_max p {
+	font-size: 25px;
+	margin-left: 30px;
+	margin-top: -93px;
+	text-align: center;
+}
+
+.manufacturer p {
+	font-size: 25px;
+    margin-left: 860px;
+    margin-top: -93px;
+    text-align: center;
+}
+
+.bg_one {
+	margin-top: 62px;
+    margin-left: -190px;
+}
+
+.img_right {
+	margin-right: 25px;
+}
+
+.iskander {
+	background: url(../img/bg_iska.png) no-repeat;
+	width: 100%;
+    height: 1200px;
+    margin-top: 100px;
+} 
+
+.iskander_text p {
+	font-size: 45px;
+    display: inline-block;
+    margin-left: 550px;
+    margin-top: 133px;
+    text-transform: uppercase;	
+}
+
+.pencil {
+	margin-left: 350px;
+	position: absolute;
+	margin-top: 25px;
+}
+
+.tools {
+	position: relative;
+	margin-left: 350px;
+	margin-top: 200px;
+}
+
+.pencil_line {
+	position: absolute;
+ 	margin-top: 390px;
+ 	margin-left: -118px;
+}
+
+.time {
+	position: absolute;
+    margin-top: 600px;
+    margin-left: -118px;
+}
+
+.design_project p {
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: -300px;
+	margin-left: 510px;
+}
+
+.design__text p {
+	font-size: 20px;
+	margin-left: 510px;
+	margin-top: 30px;
+}
+
+.tools_text p {
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 510px;
+    margin-top: 67px;
+}
+
+.tools__text p {
+	font-size: 20px;
+	margin-left: 510px;
+	margin-top: 30px;
+}
+
+.pencil_text p {
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 510px;
+	margin-top: 50px;
+}
+
+.pencil__text p {
+	font-size: 20px;
+	margin-left: 510px;
+	margin-top: 35px;
+}
+
+.time_text p {
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-left: 510px;
+	margin-top: 95px;
+}
+
+.time__text p {
+	font-size: 20px;
+	margin-left: 510px;
+	margin-top: 30px;
+}
+
+.reliz_project {
+	background: url(../img/reliz_project.png) no-repeat;
+	width: 100%;
+	height: 1550px;
+	margin-top: -390px;
+	clip-path: polygon(0 0% , 100% 0%, 100% 100%, 0 94%);
+}
+
+.reliz__project p {
+	font-size: 45px;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 230px;
+    position: absolute;
+    margin-left: 650px;
+}
+
+.kuhny p {
+	color: #c31e2f;
+    position: absolute;
+    font-size: 20px;
+    margin-top: 330px;
+    margin-left: 333px;
+    text-transform: uppercase;
+
+}
+
+.line_one {
+	margin-top: 330px;
+	position: absolute;
+	margin-left: 420px;
+	color: #a6a6a6;
+	font-size: 20px;
+}
+
+.r_door p {
+	position: absolute;
+	font-size: 20px;
+	margin-top: 330px;
+	text-transform: uppercase;
+	margin-left: 455px;
+}
+
+.line_two {
+	margin-top: 330px;
+	position: absolute;
+	color: #a6a6a6;
+	font-size: 20px;
+	margin-left: 680px;
+}
+
+.shkaf_kype p {
+	position: absolute;
+	font-size: 20px;
+	margin-left: 710px;
+	margin-top: 330px;
+	text-transform: uppercase;
+}
+
+.line_three {
+	margin-top: 330px;
+	position: absolute;
+	color: #a6a6a6;
+	font-size: 20px;
+	margin-left: 890px;
+}
+
+.office_m p {
+	position: absolute;
+	font-size: 20px;
+	margin-top: 330px;
+	text-transform: uppercase;
+	margin-left: 920px;
+
+}
+
+.line_for {
+	position: absolute;
+	color: #a6a6a6;
+	font-size: 20px;
+	margin-top: 330px;
+	margin-left: 1150px;
+}
+
+.wall_panel p {
+	position: absolute;
+	font-size: 20px;
+	margin-top: 330px;
+	text-transform: uppercase;
+	margin-left: 1180px;
+}
+
+.kitchen {
+	position: absolute;
+	margin-top: 375px;
+	margin-left: 333px;
+}
+
+.kitchen_two {
+	position: absolute;
+	margin-top: 375px;
+	margin-left: 590px;
+	height: 169px;
+	width: 212px;
+}
+.kitchen_three {
+	position: absolute;
+	margin-top: 375px;
+	margin-left: 860px;
+	height: 169px;
+	width: 212px;
+}
+
+.kitchen__three {
+	position: absolute;
+	margin-top: 375px;
+	margin-left: 1140px;
+	height: 169px;
+	width: 212px;
+}
+
+.kitchen__for {
+	position: absolute;
+    margin-top: 590px;
+    margin-left: 333px;
+    height: 169px;
+    width: 225px;
+}
+
+.kitchen__five {
+	position: absolute;
+	margin-top: 590px;
+	height: 169px;
+	width: 212px;
+	margin-left: 590px;
+}
+
+.kitchen__seven {
+	position: absolute;
+	margin-top: 590px;
+	height: 169px;
+	width: 212px;
+	margin-left: 860px;
+}
+
+.kitchen__eight {
+	position: absolute;
+	margin-top: 590px;
+	height: 169px;
+	width: 212px;
+	margin-left: 1140px;
+}
+
+.img__footer {
+	position: absolute;
+    height: 169px;
+    width: 225px;
+    margin-top: 795px;
+    margin-left: 333px;
+}
+
+.kitchen__ten {
+	position: absolute;
+    height: 169px;
+    width: 220px;
+    margin-top: 795px;
+    margin-left: 585px;
+}
+
+.kitchen__eleven {
+	position: absolute;
+    height: 169px;
+    width: 220px;
+    margin-top: 795px;
+    margin-left: 852px;
+}
+
+.kitchen__tweel {
+	position: absolute;
+	height: 169px;
+	width: 220px;
+	margin-top: 795px;
+	margin-left: 1140px;
+}
+
+hr {
+	width: 1030px;
+    margin-top: -450px;
+    margin-left: 330px;
+}
+
+.partners {
+	margin-top: -160px;
+	text-align: center;
+}
+
+.parners__img {
+	position: relative;
+    top: -75px;
+}
+
+.pfleiderer {
+	margin-top: 400px;
+	margin-left: 330px;
+}
+
+.samet {
+	margin-top: 385px;
+	margin-left: 100px;
+}
+
+.gran_fest {
+	margin-top: 400px;
+	margin-left: 50px;
+}
+
+.logo_blum {
+	margin-top: 490px;
+    position: absolute;
+    margin-left: -760px;
+}
+
+.aristo {
+	position: absolute;
+	margin-top: 490px;
+	margin-left: -440px;
+}
+
+
+.reviews {
+	background: url(../img/bg_opacity.png) no-repeat;
+	margin-top: 31px;
+	height: 1280px;
+	clip-path: polygon(0 1%, 100% 8%, 100% 95%, 0 90%);
+}	
+
+.reviews h1 {
+	font-size: 45px;
+    text-align: center;
+    text-transform: uppercase;
+	margin-top: 70px;
+    position: absolute;
+    margin-left: 680px;
+	
+}
+
+.vladimer {
+	margin-top: 175px;
+    margin-left: 315px;
+}
+
+.b_company {
+	margin-top: 175px;
+    margin-left: 65px;
+}
+
+.s_elena {
+	margin-top: 130px;
+	margin-left: 315px;
+}
+
+.sity_almati {
+	margin-top: 130px;
+	margin-left: 65px;
+}
+
+.ideas {
+	background: url(../img/ideas.png) no-repeat;
+	height: 975px;
+	margin-top: -260px;
+	clip-path: polygon(0 1%, 100% 8%, 100% 95%, 0 90%);
+}
+
+.ideas h1 {
+	font-size: 45px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 105px;
+    position: absolute;
+    margin-left: 520px;
+}
+ .strilka {
+ 	position: absolute;
+    margin-top: 190px;
+    margin-left: 380px;
+ }
+
+ .tools_idei {
+ 	position: absolute;
+ 	margin-left: 380px;
+ 	margin-top: 350px;
+ }
+
+ .time_idei {
+ 	position: absolute;
+ 	margin-left: 300px;
+ 	margin-top: 495px;
+}
+
+.phone {
+	position: absolute;
+	margin-top: 190px;
+	margin-left: 720px;
+}
+
+.strilka p  {
+	font-size: 15px;
+    text-align: left;
+    margin-top: -425px;
+    position: absolute;
+    margin-left: 100px;
+    width: 100px;
+}
+
+.tools p {
+	font-size: 15px;
+	text-align: left;
+	position: absolute;
+	margin-left: 130px;
+	width: 100px;
+	margin-top: -270px;
+}
+
+.time_idei p {
+	font-size: 15px;
+	text-align: left;
+	position: absolute;
+	margin-top: -288px;
+	margin-left: 273px;
+	width: 100px;
+	
+}
+
+.phone_text p {
+	font-size: 15px;
+	position: absolute;
+	width: 110px;
+	margin-top: -430px;
+	margin-left: 825px;
+	text-align: left;
+}
+
+.notes {
+	position: absolute;
+	margin-top: 350px;
+	margin-left: 720px;
+}
+
+.notes_text p {
+	font-size: 15px;
+	text-align: left;
+	position: absolute;
+	margin-left: 826px;
+	width: 110px;
+	margin-top: -270px;
+}
+
+.many_bank {
+	position: relative;
+    margin-top: 337px;
+    margin-left: 1000px;
+}
+
+.car_text p {
+	font-size: 15px;
+    position: absolute;
+    width: 110px;
+    margin-top: -430px;
+    margin-left: 1105px;
+}
+
+.time_idei {
+	position: absolute;
+	margin-left: -705px;
+}
+
+.car_hevy {
+	position: absolute;
+    margin-top: 190px;
+    margin-left: 1000px
+}
+
+.many_text p {
+	font-size: 15px;
+    position: absolute;
+    width: 110px;
+    margin-top: -290px;
+    margin-left: 1105px;
+    text-align: left;
+}
+
+.text_time p {
+	font-size: 15px;
+	position: absolute;
+	width: 110px;
+	margin-top: -130px;
+	text-align: left;
+	margin-left: 480px;
+}
+
+.strilka_right {
+	position: absolute;
+    margin-left: 635px;
+    margin-top: -415px;
+}
+
+.strila_bottom_left {
+	position: absolute;
+	margin-left: 635px;
+	margin-top: -260px;
+}
+
+.strilka_right_two {
+	position: absolute;
+	margin-left: 930px;
+	margin-top: -415px;
+}
+
+.strila_bottom_left_two {
+	position: absolute;
+	margin-top: -260px;
+	margin-left: 930px;
+}
+
+.strilka_bootom_right {
+	position: absolute;
+    margin-top: -197px;
+    margin-left: 330px;
+}
+
+.strila_left {
+	position: absolute;
+    margin-left: 1210px;
+    margin-top: -360px;
+}
+
+.footer_main {
+	background: url(../img/people_footer.png) no-repeat;
+	height: 718px;
+	margin-top: -470px;
+	clip-path: polygon(0 16%, 100% 4%, 100% 100%, 0 100%);
+}
+
+.footer__red {
+	margin-top: 200px;
+    margin-left: 915px;
+}
+
+.form_order__p {
+	margin-top: -380px;
+    font-size: 45px;
+    color: #fff;
+    font-weight: bold;
+    width: 410px;
+    height: 50px;
+    text-align: center;
+    margin-left: 900px;
+}
+
+.form_red__text {
+	margin-top: 10px;
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    width: 410px;
+    height: 50px;
+    text-align: center;
+    margin-left: 910px;
+}
+
+.form__order_text {
+	margin: 10px 20px 10px 28px;
+    width: 18%;
+    display: inline-block;
+    font-size: 14px;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #868686;
+    clear: both;
+    text-align: left;
+    margin-left: 965px;
+    margin-top: 37px;
+}
+
+.form__order_button {
+	width: 270px;
+    padding: 10px;
+    margin: 25px 10px 20px 67px;
+    border-radius: 5px;
+    background-color: #868686;
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
+    border: none;
+    clear: both;
+    font-weight: normal;
+    margin-left: 985px;
+    margin-top: 10px;
+}
+
+.footer {
+	background-color: #000;
+    height: 160px;
+    text-align: center;
+}
+
+.logo__footer {
+	margin-top: 30px;
+    margin-right: 260px;
+}
+
+.nomer_footer {
+	color: #fff;
+    margin-top: -120px;
+    font-size: 25px;
+    margin-left: 1175px;
+}
+
+.email  {
+	font-size: 20px;
+    color: #fff;
+    margin-left: 1200px;
+    margin-top: 5px;
+}
+
